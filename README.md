@@ -9,7 +9,7 @@ This is **not** the production or staging environment. It's a disposable sandbox
 Requires [Docker](https://docs.docker.com/get-docker/) and Docker Compose.
 
 ```bash
-git clone git@github.com:prospect-tool-relay4u-eu/prospect-tool-docker.git
+git clone https://github.com/prospect-tool-relay4u-eu/prospect-tool-docker.git
 cd prospect-tool-docker
 docker compose up
 ```
